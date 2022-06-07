@@ -1,0 +1,27 @@
+body {
+    background: linear-gradient(to right, #60e2a7, #6d78e2);
+}
+
+table {
+    width: 40%;
+    margin: 5% auto;
+}
+
+td {
+    padding: 1em;
+    border-radius: 15%;
+    text-align: center;
+    background-color: rgba(0,0,255,0.5);
+    width: 5em;
+    height: 2em;
+    font-size: 2rem;
+    font-family: Roboto;
+    color: white;
+    font-weight: bold;
+    box-shadow: 2px 2px 2px black;
+}
+
+.hide {
+    visibility: collapse;
+}
+
